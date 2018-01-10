@@ -1,2 +1,3 @@
 # helloworld
-Simple Hello world testing for openshift
+Simple Hello world testing with EAP for openshift
+
