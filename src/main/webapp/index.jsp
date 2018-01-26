@@ -10,7 +10,7 @@ if (System.getenv("ENV") != null){
 %>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>HelloWorld from OpenShift</title>
-<h1>HelloWorld from Openshift from Azure v2</h1>
+<h1>HelloWorld from Openshift from Azure v2.2</h1>
 <p>This JavaEE application is running in <b><%= env %></b> environment</p>
 </body>
 </html>
