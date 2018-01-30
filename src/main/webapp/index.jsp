@@ -11,7 +11,7 @@ if (System.getenv("ENV") != null){
 %>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>HelloWorld from OpenShift</title>
-<h1>HelloWorld from Openshift from Azure v2.2 on host <%= InetAddress.getLocalHost().getHostAddress() %></h1>
-<p>This JavaEE application is running in <b><%= env %></b> environment</p>
+<h1>HelloWorld from Openshift on host <%= InetAddress.getLocalHost().getHostAddress() %></h1>
+<p><b>This JavaEE application is running in <u><%= env %></u> environment</b></p>
 </body>
 </html>
