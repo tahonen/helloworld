@@ -90,19 +90,6 @@
 					</configuration>
 				</configuration>
 			</plugin>
-			
-		
-      <plugin>
-        <configuration>
-          <resources>
-            <labels>
-              <all>
-                <space>helloworld</space>
-              </all>
-            </labels>
-          </resources>
-        </configuration>
-      </plugin>
     </plugins>
 	</build>
 	<reporting>
