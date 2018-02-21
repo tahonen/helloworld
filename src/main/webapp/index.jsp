@@ -13,6 +13,5 @@ if (System.getenv("ENV") != null){
 <title>HelloWorld from OpenShift</title>
 <h1>HelloWorld from Openshift on host <%= InetAddress.getLocalHost().getHostAddress() %></h1>
 <p><b>This application is running in <u><%= env %></u> environment</b></p>
-<h1>some tilte</h1>
 </body>
 </html>
